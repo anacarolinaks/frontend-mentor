@@ -5,9 +5,7 @@ Os desafios do Frontend Mentor ajudam a melhorar suas habilidades de codifica√ß√
 
 
 ### Resultado
-
-- Repositorio: https://github.com/anacarolinaks/qr-code-component-frontendmentor
-- Veja como ficou: https://anacarolinaks.github.io/qr-code-component-frontendmentor/
+- [Veja como ficou:](https://anacarolinaks.github.io/frontend-mentor/qr-code-component-main/)
 
 ### Constru√≠do com
 
@@ -16,5 +14,4 @@ Os desafios do Frontend Mentor ajudam a melhorar suas habilidades de codifica√ß√
 
 ## Autora
 
-- GitHub - https://github.com/anacarolinaks
 - Frontend Mentor - [@anacarolinaks](https://www.frontendmentor.io/profile/anacarolinaks)
