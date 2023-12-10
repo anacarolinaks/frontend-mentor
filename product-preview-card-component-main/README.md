@@ -1,20 +1,16 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Product preview card component solution
 
-Esta é uma solução para o [desafio do componente de código QR no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).</br>
-Os desafios do Frontend Mentor ajudam a melhorar suas habilidades de codificação através da construção de projetos realistas.
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ### Resultado
-
-- [Repositorio:](https://github.com/anacarolinaks/qr-code-component-frontendmentor)
-- [Veja como ficou:](https://anacarolinaks.github.io/qr-code-component-frontendmentor/)
+- [Veja como ficou:](https://anacarolinaks.github.io/frontend-mentor/product-preview-card-component-main/)
 
 ### Construído com
 
 - CSS customizado
 - Flexbox e Grid
 
-## Autora
+### Autora
 
-- GitHub - https://github.com/anacarolinaks
 - Frontend Mentor - [@anacarolinaks](https://www.frontendmentor.io/profile/anacarolinaks)
